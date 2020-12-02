@@ -1,3 +1,3 @@
-# advent-of-code-2020-swift
+# advent-of-code-2020
 
-https://github.com/bhundt/advent-of-code-2020-swift.git
+https://adventofcode.com
